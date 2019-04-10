@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+file3 again
+=======
+file3 here
+>>>>>>> erro1
